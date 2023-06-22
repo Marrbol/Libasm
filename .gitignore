@@ -1,0 +1,10 @@
+*.o
+a.out
+*.so
+main.c
+*.pdf
+vgcore.*
+ote
+*.gcda
+*.gcno
+unit_test
